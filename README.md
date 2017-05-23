@@ -28,4 +28,4 @@
 #### Demo简介：通过自定义iOS代理协议来实现多界面传值，例如Demo中在视图②中通过点击按钮改变视图①的背景颜色。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_DelegateProtocol/blob/master/多界面传值UITests/demo.gif)
-<br>
+
