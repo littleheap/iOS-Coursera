@@ -22,8 +22,8 @@
 ## 多界面传值
 #### GitHub地址：[https://github.com/LittleHeap/iOSCourse_DelegateProtocol](https://github.com/LittleHeap/iOSCourse_DelegateProtocol/blob/master/多界面传值UITests/demo.gif)
 #### Demo简介：通过使用自定义iOS代理协议，实现多界面之间的传值。例如Demo中在视图②中点击按钮，可以更改视图①中背景颜色。
-#### Demo效果：![](https://github.com/LittleHeap/iOSCourse_DelegateProtocol/blob/master/多界面传值UITests/demo.gif)
-
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_DelegateProtocol/blob/master/多界面传值UITests/demo.gif)
 <br>
 ## NSUserDefaults
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_NSUserDefaults](https://github.com/LittleHeap/iOSCourse_NSUserDefaults)
