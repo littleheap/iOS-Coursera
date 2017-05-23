@@ -1,21 +1,25 @@
 # iOSCourse
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
+#### Demo简介：iOS常用的源生导航栏框架，以一个根视图为基准，采用栈的概念实现界面的切换。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_Navigation/blob/master/NavigationUITests/show.gif)
 <br>
 ## UITabBarController
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_UITabBarController](https://github.com/LittleHeap/iOSCourse_UITabBarController)
+#### Demo简介：在很多app中使用到的底部标签控制容器，类似微信QQ的底部实现。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UITabBarController/blob/master/UITabBarControllerUITests/demo.gif)
 <br>
 ## PhotoWall :fire:
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_PhotoWall](https://github.com/LittleHeap/iOSCourse_PhotoWall)
+#### Demo简介：实现一个简单的照片墙案例，以滚动视图为基础框架，加载内置图片文件，以导航形式在点击图片时放大图片。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_PhotoWall/blob/master/PhotoWallUITests/demo.gif)
 <br>
 ## UIPickerView
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_UIPickerView](https://github.com/LittleHeap/iOSCourse_UIPickerView)
+#### Demo简介：实现一种iOS常见的源生选择器，类似我们常见的选择时间的一种场景。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UIPickerView/blob/master/UIPickerViewUITests/demo.gif)
 <br>
