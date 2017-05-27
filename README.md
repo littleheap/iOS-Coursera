@@ -47,6 +47,12 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_XML/blob/master/XMLUITests/demo.png)
 <br>
+## SQLite数据库
+#### GitHub地址：[https://github.com/LittleHeap/iOSCourse_SQLite](https://github.com/LittleHeap/iOSCourse_SQLite)
+#### Demo简介：针对SQLite数据库，如何进行创建数据库，打开数据库，建表，插入数据，查找数据和删除数据。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_SQLite/blob/master/SQLiteUITests/demo.png)
+<br>
 ## NSUserDefaults
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_NSUserDefaults](https://github.com/LittleHeap/iOSCourse_NSUserDefaults)
 #### Demo简介：一种iOS原生用来简洁存储文件级数据的功能，以全局键值对的形式。
