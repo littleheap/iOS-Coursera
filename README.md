@@ -47,6 +47,12 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_XML/blob/master/XMLUITests/demo.png)
 <br>
+## MusicPlayer
+#### GitHub地址：[https://github.com/LittleHeap/iOSCourse_MusicPlayer](https://github.com/LittleHeap/iOSCourse_MusicPlayer)
+#### Demo简介：使用iOS源生音频播放组件，对一个本地mp3文件进行播放，暂停，重新开始操作，以及同时通过一个进度条和滑动条分别显示音乐播放进度和控制音量
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_MusicPlayer/blob/master/音频播放UITests/demo.gif)
+<br>
 ## SQLite数据库
 #### GitHub地址：[https://github.com/LittleHeap/iOSCourse_SQLite](https://github.com/LittleHeap/iOSCourse_SQLite)
 #### Demo简介：针对SQLite数据库，如何进行创建数据库，打开数据库，建表，插入数据，查找数据和删除数据。
