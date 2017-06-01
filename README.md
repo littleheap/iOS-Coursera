@@ -53,6 +53,12 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_MusicPlayer/blob/master/音频播放UITests/demo.gif)
 <br>
+## SDWebImage
+#### GitHub地址：[https://github.com/LittleHeap/iOSCourse_SDWebImage](https://github.com/LittleHeap/iOSCourse_SDWebImage)
+#### Demo简介：使用第三方SDWebImage库进行网络图片数据的下载与解析，好处是它已经分装好缓存功能，相同URL地址图片在程序中只缓存一次。Demo中以下载豆瓣图书类别检索字典为例，点击Load会加载响应类别图书，并将名称作者以及响应图片加载到一个TableView中。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_SDWebImage/blob/master/SDWebImageUITests/demo.gif)
+<br>
 ## SQLite数据库
 #### GitHub地址：[https://github.com/LittleHeap/iOSCourse_SQLite](https://github.com/LittleHeap/iOSCourse_SQLite)
 #### Demo简介：针对SQLite数据库，如何进行创建数据库，打开数据库，建表，插入数据，查找数据和删除数据。
