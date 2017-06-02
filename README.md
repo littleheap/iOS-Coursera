@@ -59,6 +59,18 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_SDWebImage/blob/master/SDWebImageUITests/demo.gif)
 <br>
+## VideoPlayer
+#### GitHub地址：[https://github.com/LittleHeap/iOSCourse_VideoPlayer](https://github.com/LittleHeap/iOSCourse_VideoPlayer)
+#### Demo简介：使用苹果源生视频播放组件，通过解析一个网络视频URL地址，用两种方式实现在一个视图控制器中播放视频。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_VideoPlayer/blob/master/VideoPlayerUITests/demo.gif)
+<br>
+## UIViewAnimation
+#### GitHub地址：[https://github.com/LittleHeap/iOSCourse_UIViewAnimation](https://github.com/LittleHeap/iOSCourse_UIViewAnimation)
+#### Demo简介：通过UIView属性简单实现一个视图图片的位移和缩放，以及随之改变的透明度。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UIViewAnimation/blob/master/UIViewAnimationUITests/demo.gif)
+<br>
 ## SQLite数据库
 #### GitHub地址：[https://github.com/LittleHeap/iOSCourse_SQLite](https://github.com/LittleHeap/iOSCourse_SQLite)
 #### Demo简介：针对SQLite数据库，如何进行创建数据库，打开数据库，建表，插入数据，查找数据和删除数据。
