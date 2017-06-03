@@ -71,6 +71,12 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UIViewAnimation/blob/master/UIViewAnimationUITests/demo.gif)
 <br>
+## 导航器动画效果
+#### GitHub地址：[https://github.com/LittleHeap/iOSCourse_NavigationAnimation](https://github.com/LittleHeap/iOSCourse_NavigationAnimation)
+#### Demo简介：实现导航栏内视图切换的动画效果，Demo中展示了其中两种，水波纹切换和立体翻转。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_NavigationAnimation/blob/master/NavigationAnimationUITests/demo.gif)
+<br>
 ## SQLite数据库
 #### GitHub地址：[https://github.com/LittleHeap/iOSCourse_SQLite](https://github.com/LittleHeap/iOSCourse_SQLite)
 #### Demo简介：针对SQLite数据库，如何进行创建数据库，打开数据库，建表，插入数据，查找数据和删除数据。
