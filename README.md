@@ -3,7 +3,7 @@
 - [UIButton](#uibutton)
 - [UIView](#uiview)
 - [UINavigation](#navigation)
-- [UIUITabBarController](#uitabbarcontroller)
+- [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
 - [UIPickerView](#uipickerview)
 - [多界面传值](#多界面传值)
