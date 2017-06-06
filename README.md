@@ -4,7 +4,7 @@
 - [UIView](#uiview)
 - [UINavigation](#navigation)
 - [UIUITabBarController](#uitabbarcontroller)
-- [PhotoWall :fire:](#photowall-:fire:)
+- [PhotoWall :fire:](#photowall-fire)
 - [UIPickerView](#uipickerview)
 - [多界面传值](#多界面传值)
 - [UITableView](#uitableview)
