@@ -11,6 +11,12 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UIButton/blob/master/UIButtonUITests/demo.gif)
 <br>
+## UIView
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_UIView](https://github.com/LittleHeap/iOSCourse_UIView)
+#### Demo简介：通过创建三个UIView并初始化不同背景的方式，呈现了UIView的创建层级关系，以及如何更改透明度，最终可以实现通过UIWindow调用下标控制整个UIView序列中所有的内容。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UIView/blob/master/UIViewUITests/image.png)
+<br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
 #### Demo简介：iOS常用的源生导航栏框架，以一个根视图为基准，采用栈的概念实现界面的切换。
