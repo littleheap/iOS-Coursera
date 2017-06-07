@@ -54,7 +54,7 @@
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_NSTimer](https://github.com/LittleHeap/iOSCourse_NSTimer)
 #### Demo简介：实现对定时器NSTimer的使用。效果通过控制一个UIView方块的位置实现，定时器运行，方块则根据时间更改位置坐标，定时器停止，则通知停止更新方块位置坐标。
 #### Demo效果：
-![](https://github.com/LittleHeap/iOSCourse_NSTimer/blob/master/定时器和视图对象UITests/demo.gif)
+![](https://github.com/LittleHeap/iOSCourse_NSTimer/blob/master/定时器和视图对象UITests/demo01.gif)
 <br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
