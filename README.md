@@ -4,6 +4,7 @@
 - [UIView](#uiview)
 - [UIWindow](#uiwindow)
 - [UIViewController](#uiviewcontroller)
+- [NSTimer](#nstimer)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
@@ -48,6 +49,12 @@
 #### Demo简介：取消原本的storyboard依赖，自定义创建一个UIWindow并初始化根视图控制器。在第一个视图控制器中创建点击事件，点击视图控制器部分跳转至另一个视图控制器，然而点击UIView部分无效。在第二个视图控制器中添加点击事件，点击空白处后当前视图控制器弹出栈，回到第一个视图控制器。同时实现了多个协议函数。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UIViewController/blob/master/UIViewControllerUITests/demo.gif)
+<br>
+## NSTimer
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_NSTimer](https://github.com/LittleHeap/iOSCourse_NSTimer)
+#### Demo简介：实现对定时器NSTimer的使用。效果通过控制一个UIView方块的位置实现，定时器运行，方块则根据时间更改位置坐标，定时器停止，则通知停止更新方块位置坐标。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_NSTimer/blob/master/定时器和视图对象UITests/demo.gif)
 <br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
