@@ -35,6 +35,12 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UIView/blob/master/UIViewUITests/image.png)
 <br>
+## UIWindow
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_UIWindow](https://github.com/LittleHeap/iOSCourse_UIWindow)
+#### Demo简介：取消原本的storyboard依赖，自定义创建一个UIWindow并初始化根视图控制器。额外再创建一个UIView图形，并添加到UIWindow上呈现出效果。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UIWindow/blob/master/UIWindowUITests/demo.png)
+<br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
 #### Demo简介：iOS常用的源生导航栏框架，以一个根视图为基准，采用栈的概念实现界面的切换。
