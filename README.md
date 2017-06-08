@@ -1,5 +1,5 @@
 <div align=center>
-  <img width="900" height="280" src="https://github.com/LittleHeap/iOSCourse/blob/master/demo.GIF"/>
+  <img width="500" height="250" src="https://github.com/LittleHeap/iOSCourse/blob/master/demo.GIF"/>
 </div>
 
 # iOSCourse
