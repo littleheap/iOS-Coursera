@@ -6,6 +6,7 @@
 - [UIViewController](#uiviewcontroller)
 - [NSTimer](#nstimer)
 - [UISwitch](#uiswitch)
+- [UISlider and UIProgressView](#uislider-and-uiprogressview)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
@@ -62,6 +63,12 @@
 #### Demo简介：实现iOS一个常用控件UISwitch，对外观进行处理并添加了触发事件。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UISwitch/blob/master/UISwitchUITests/demo.gif)
+<br>
+## UISlider and UIProgressView
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_UISlider_UIProgressView](https://github.com/LittleHeap/iOSCourse_UISlider_UIProgressView)
+#### Demo简介：实现滑动条和进度条显示，对外观进行处理，并对滑动条添加了输出事件。前者是主动使用，后者是被动触发。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UISlider_UIProgressView/blob/master/UISlider%26UIProgressUITests/demo.gif)
 <br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
