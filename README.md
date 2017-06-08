@@ -5,6 +5,7 @@
 - [UIWindow](#uiwindow)
 - [UIViewController](#uiviewcontroller)
 - [NSTimer](#nstimer)
+- [UISwitch](#uiswitch)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
