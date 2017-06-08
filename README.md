@@ -56,6 +56,12 @@
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_NSTimer/blob/master/定时器和视图对象UITests/demo01.gif)
 <br>
+## UISwitch
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_UISwitch](https://github.com/LittleHeap/iOSCourse_UISwitch)
+#### Demo简介：实现iOS一个常用控件UISwitch，对外观进行处理并添加了触发事件。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UISwitch/blob/master/UISwitchUITests/demo.gif)
+<br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
 #### Demo简介：iOS常用的源生导航栏框架，以一个根视图为基准，采用栈的概念实现界面的切换。
