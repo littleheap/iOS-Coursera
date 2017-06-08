@@ -8,6 +8,7 @@
 - [UISwitch](#uiswitch)
 - [UISlider and UIProgressView](#uislider-and-uiprogressview)
 - [UIStepper and UISegmentedControl](#uistepper-and-uisegmentedcontrol)
+- [UIAlertView and UIActivityIndicatorView](#uialertview-and-uiactivityindicatorview)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
@@ -76,6 +77,12 @@
 #### Demo简介：实现步进器和分栏器，步进器在控制台输出步进值，每次加5或减5，上限100，下限0。分栏器实现三种价格的选择，以及添加触发事件识别所选价格。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UIStepper_UISegmentedControl/blob/master/UIStepper%26UISegmentedControlUITests/demo.gif)
+<br>
+## UIAlertView and UIActivityIndicatorView
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_UIAlertView_UIActivityIndicatorView](https://github.com/LittleHeap/iOSCourse_UIAlertView_UIActivityIndicatorView)
+#### Demo简介：实现警告对话框和等待提示器。对警告提示框进行相应文字赋值并对选项进行事件处理，和等待提示器的显示和消失。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UIAlertView_UIActivityIndicatorView/blob/master/UIAlertView%26UIActivityIndicatorViewUITests/demo.gif)
 <br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
