@@ -7,6 +7,7 @@
 - [NSTimer](#nstimer)
 - [UISwitch](#uiswitch)
 - [UISlider and UIProgressView](#uislider-and-uiprogressview)
+- [UIStepper and UISegmentedControl](#uistepper-and-uisegmentedcontrol)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
@@ -69,6 +70,12 @@
 #### Demo简介：实现滑动条和进度条显示，对外观进行处理，并对滑动条添加了输出事件。前者是主动使用，后者是被动触发。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UISlider_UIProgressView/blob/master/UISlider%26UIProgressUITests/demo.gif)
+<br>
+## UIStepper and UISegmentedControl
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_UIStepper_UISegmentedControl](https://github.com/LittleHeap/iOSCourse_UIStepper_UISegmentedControl)
+#### Demo简介：实现步进器和分栏器，步进器在控制台输出步进值，每次加5或减5，上限100，下限0。分栏器实现三种价格的选择，以及添加触发事件识别所选价格。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UIStepper_UISegmentedControl/blob/master/UIStepper%26UISegmentedControlUITests/demo.gif)
 <br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
