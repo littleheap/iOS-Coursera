@@ -15,7 +15,7 @@
 - [UIAlertView and UIActivityIndicatorView](#uialertview-and-uiactivityindicatorview)
 - [UITextField](#uitextfield)
 - [简易登录界面](#简易登录界面)
-- [UIScrollView](#uiscrollView)
+- [UIScrollView](#uiscrollview)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
