@@ -5,7 +5,7 @@
 # iOSCourse
 ### 本套iOS课程体系一一对应的[视频教程地址](https://ke.qq.com/course/121211)，由腾讯课堂提供。以下内容为对应章节课程源码以及Demo的GIF演示，源码可在clone后直接运行，效果会与Demo相同，个别章节需要调试iOS开发版本和配置相应文件，具体详见教程。个人整理，能力有限，望改进补充类似演示课件。
 - [UILabel](#uilabel)
-- [UIButton](#uibutton)D
+- [UIButton](#uibutton)
 - [UIView](#uiview)
 - [UIWindow](#uiwindow)
 - [UIViewController](#uiviewcontroller)
