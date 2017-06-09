@@ -16,6 +16,7 @@
 - [UITextField](#uitextfield)
 - [简易登录界面](#简易登录界面)
 - [UIScrollView](#uiscrollview)
+- [UITouch](#uitouch)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
