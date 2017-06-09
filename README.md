@@ -13,6 +13,7 @@
 - [UISlider and UIProgressView](#uislider-and-uiprogressview)
 - [UIStepper and UISegmentedControl](#uistepper-and-uisegmentedcontrol)
 - [UIAlertView and UIActivityIndicatorView](#uialertview-and-uiactivityindicatorview)
+- [UITextField](#uitextfield)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
