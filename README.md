@@ -131,7 +131,7 @@
 <br>
 ## UITabBarController
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_UITabBarController](https://github.com/LittleHeap/iOSCourse_UITabBarController)
-#### Demo简介：在很多app中使用到的底部标签控制容器，类似微信QQ的底部实现。
+#### Demo简介：分栏控制器，在很多app中使用到的底部标签控制容器，类似微信QQ的底部实现。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UITabBarController/blob/master/UITabBarControllerUITests/demo.gif)
 <br>
