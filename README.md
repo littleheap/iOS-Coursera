@@ -112,7 +112,7 @@
 <br>
 ## UITouch
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_UITouch](https://github.com/LittleHeap/iOSCourse_UITouch)
-#### Demo简介：通过UIScrollView实现照片墙的滚动浏览效果，期间可以添加各种滚动视图限定，以及点击底部实现回到首页功能。
+#### Demo简介：通过UITouch实现对用户触摸屏幕的捕获，进而通过移动一个图片展示效果，控制台有具体数据输出情况。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UITouch/blob/master/UITouchUITests/demo.gif)
 <br>
