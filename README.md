@@ -17,6 +17,7 @@
 - [简易登录界面](#简易登录界面)
 - [UIScrollView](#uiscrollview)
 - [UITouch](#uitouch)
+- [UIGesture](#uigesture)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
@@ -115,6 +116,12 @@
 #### Demo简介：通过UITouch实现对用户触摸屏幕的捕获，进而通过移动一个图片展示效果，控制台有具体数据输出情况。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UITouch/blob/master/UITouchUITests/demo.gif)
+<br>
+## UIGesture
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_UIGesture](https://github.com/LittleHeap/iOSCourse_UIGesture)
+#### Demo简介：通过UIGesture实现对一张图片的放大缩小以及旋转，即多点触发手势。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_UIGesture/blob/master/UIGestureUITests/demo.gif)
 <br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
