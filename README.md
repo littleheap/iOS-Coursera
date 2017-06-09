@@ -14,6 +14,7 @@
 - [UIStepper and UISegmentedControl](#uistepper-and-uisegmentedcontrol)
 - [UIAlertView and UIActivityIndicatorView](#uialertview-and-uiactivityindicatorview)
 - [UITextField](#uitextfield)
+- [简易登录界面](#简易登录界面)
 - [UINavigation](#navigation)
 - [UITabBarController](#uitabbarcontroller)
 - [PhotoWall :fire:](#photowall-fire)
@@ -94,6 +95,12 @@
 #### Demo简介：实现文本输入框UITextField，并初始化提示文字，通过调用协议函数，实现收缩键盘，点击空白处收回键盘。
 #### Demo效果：
 ![](https://github.com/LittleHeap/iOSCourse_UITextField/blob/master/UITextFieldUITests/demo.gif)
+<br>
+## 简易登录界面
+#### Github地址：[https://github.com/LittleHeap/iOSCourse_SimpleLoginInterface](https://github.com/LittleHeap/iOSCourse_SimpleLoginInterface)
+#### Demo简介：通过使用UITextField实现一个简单的登录界面，注册和验证。默认用户名密码是Tom和123。
+#### Demo效果：
+![](https://github.com/LittleHeap/iOSCourse_SimpleLoginInterface/blob/master/SimpleLoginInterfaceUITests/demo.gif)
 <br>
 ## Navigation
 #### Github地址：[https://github.com/LittleHeap/iOSCourse_Navigation](https://github.com/LittleHeap/iOSCourse_Navigation)
